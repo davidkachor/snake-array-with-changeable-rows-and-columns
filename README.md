@@ -3,12 +3,14 @@
 
 ###How to use?
 
-Call the function snakeArray(snakeStart, rows, columns).
+Call the function snakeArray(snakeStart, rows, columns). It is in the app.js.
 
 - snakeStart is a number, the matrix starts from;
 - rows and columns  are the rows and columns of the matrix 💁‍♂️
 
-<!-- ###Some examples: 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+< ###Some examples: 
+![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex1.png)
+![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex2.png)
+![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex3.png)
+
+#If it has helped you, press ⭐️ please 🥲.
