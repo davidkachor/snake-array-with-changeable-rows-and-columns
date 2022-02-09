@@ -9,6 +9,7 @@ Call the function snakeArray(snakeStart, rows, columns). It is in the app.js.
 - rows and columns  are the rows and columns of the matrix 💁‍♂️
 
 < ###Some examples: 
+
 ![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex1.png)
 ![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex2.png)
 ![alt text](https://github.com/davidkachor/snake-array-with-changeable-rows-and-columns/blob/main/examples/ex3.png)
